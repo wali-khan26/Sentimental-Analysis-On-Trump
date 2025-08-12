@@ -1,5 +1,7 @@
 # Sentimental-Analysis-On-Trump
-Trump Sentiment Analysis
+Link to colab notebook: https://colab.research.google.com/drive/1_Am5oLTwT5-C1sNSDSZcgsP7Ug5tivcz?usp=sharing
+
+link to tableau public dashboard: https://public.tableau.com/views/TrumpDash/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 # Overview
 This project focuses on performing sentiment analysis on Reddit posts related to Donald Trump.
 It collects data using the Reddit API via the asyncpraw library, processes and cleans the text data, and then applies sentiment analysis techniques using TextBlob and VADER.
